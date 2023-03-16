@@ -1,4 +1,47 @@
 {
   "users": [],
-  "hotels": []
+  "hotels": [{
+    "category": "Family",
+    "image_url": "https://static01.nyt.com/images/2019/03/24/travel/24trending-shophotels1/24trending-shophotels1-superJumbo.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+    "no_of_persons": "7",
+    "capacity": "10",
+    "cost": "9000",
+    "booked": false,
+    "id": 1
+  },
+  {
+    "category": "Delux",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkYNlcW84b3Ioibt6kymvf0GV6RizJq9dm8KIzjNm&s",
+    "type_of_room": "AC",
+    "bed_type": "Single",
+    "no_of_persons": "4",
+    "capacity": "5",
+    "cost": "90000",
+    "booked": false,
+    "id": 2
+  },
+  {
+    "category": "Suit",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkYNlcW84b3Ioibt6kymvf0GV6RizJq9dm8KIzjNm&s",
+    "type_of_room": "Non AC",
+    "bed_type": "Double",
+    "no_of_persons": "2",
+    "capacity": "2",
+    "cost": "100",
+    "booked": false,
+    "id": 3
+  },
+  {
+    "category": "Family",
+    "image_url": "https://static01.nyt.com/images/2019/03/24/travel/24trending-shophotels1/24trending-shophotels1-superJumbo.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+    "no_of_persons": "7",
+    "capacity": "42",
+    "cost": "9",
+    "booked": false,
+    "id": 4
+  }]
 }
